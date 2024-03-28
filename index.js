@@ -110,8 +110,3 @@ function displayPlaylists(playlists) {
         playlistsContainer.appendChild(playlistDiv);
     });
 }
-
-
-//const playlists = generatePlaylist(guardians, songs);
-//displayPlaylists(playlists);
-
